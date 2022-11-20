@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SirRamboia (Rafael Soares), a software and web developer with +5 years of experience.
+- 💻 Advanced skills in JavaScript, HTML/CSS, Unreal Blueprints and C#.
+- 🌱 I’m currently learning Kotlin to develop a Andoid App
+- 💞️ I am currently developing a mobile health app, coming in 2023
+- 📫 How to reach me: SirRamboia#4957 or dev@scarbot.com
