@@ -1,7 +1,5 @@
-<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://cdn.discordapp.com/attachments/1049804515043463360/1049804563600900128/image.png">  
-
-## <img width="26" height="26" src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px"> Hi! I'm Rafael Soares 🖐️
-> A software and web developer. +5 years of experience.<br>
+## <img width="26" height="26" src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px"> Hi! I'm Rafael Soares
+> I'm Rafael Soares, a software and web developer with +5 years of experience. I have advanced skills in JavaScript, HTML/CSS, Unreal Blueprints, Kotlin and C#. And I'm learning React and React Native.<br>
 
 [![Discord](https://img.shields.io/discord/915533220488036363?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://discord.gg/zB4f2Etm8A)
 [![GitHub Followers](https://img.shields.io/github/followers/sirramboia?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/SirRamboia?tab=followers)
@@ -15,19 +13,19 @@
 </a>
 
 ### 💪 Experience & History
-I have been coding for more than 5 years. I started my journey at 2018.<br/>
-I learned JavaScript and Discord.JS to create Discord bots.<br/>
+I have been coding for more than 5 years. I started my journey at 2018. I learned JavaScript and Discord.JS to create Discord bots.
 My first project was a discord bot that still exists today, [see here](https://scarbot.com).<br/>
-In September 2020, I started to get interested in game creation, so I studied C# and Unreal Blueprints. Something that didn't give me pleasure doing, so I gave up the project.<br/>
-In July 2021, I started learning HTML, CSS for creating websites, something I am very comfortable with today as well as various frameworks like [React.js](https://reactjs.org/) and [Next.js](https://nextjs.org/)...
+- In September 2020, I started to get interested in game creation, so I studied C# and Unreal Blueprints. Something that didn't give me pleasure doing, so I gave up the project.<br/>
+- In July 2021, I started learning HTML, CSS for creating websites, something I really enjoy doing these days.<br/>
+- Nowadays, I learn [React](https://reactjs.org/) and [React Native](https://reactnative.dev/) to develop websites and mobile apps.
 
 ### 🧠 Over the years, I've learned
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" alt="javascript logo"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="30" alt="react logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="30" width="30" alt="nextjs logo"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="30" alt="nodejs logo"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30" alt="python logo"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="30" alt="express logo"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="30" alt="tailwind css logo"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" width="30" alt="npm logo"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="30" alt="mongodb logo"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" alt="html5 logo"/></code>
