@@ -13,7 +13,7 @@
 </a>
 
 ### 💪 Experience & History
-I have been coding for more than 5 years. I started my journey at 2018. I learned JavaScript and Discord.JS to create Discord bots.
+I have been coding for more than 6 years. I started my journey at 2018. I learned JavaScript and Discord.JS to create Discord bots.
 My first project was a discord bot that still exists today, [see here](https://scarbot.com).<br/>
 - In September 2020, I started to get interested in game creation, so I studied C# and Unreal Blueprints. Something that didn't give me pleasure doing, so I gave up the project.<br/>
 - In July 2021, I started learning HTML, CSS for creating websites, something I really enjoy doing these days.<br/>
