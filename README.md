@@ -1,4 +1,4 @@
-![image](https://github.com/SirRamboia/SirRamboia/assets/107703258/3c37d892-3135-4bf2-8017-0bd4d5aac879)## <img width="26" height="26" src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px"> Hi! I'm Rafael Soares
+> Hi! I'm Rafael Soares
 > I'm Rafael Soares, a software and web developer with +6 years of experience. I have advanced skills in JavaScript, HTML/CSS, Unreal Blueprints, Kotlin and C#. And I'm learning React and React Native.<br>
 
 [![Discord](https://img.shields.io/discord/915533220488036363?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://discord.gg/zB4f2Etm8A)
