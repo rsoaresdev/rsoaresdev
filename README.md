@@ -41,10 +41,4 @@ My first project was a discord bot that still exists today, [see here](https://s
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg" height="30" width="30" alt="firebase logo"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" height="30" width="30" alt="flutter logo"/></code>
 
-
-### 💵 Get my services on Fiverr!
-
-Do you want a unique, exlusive and totally customized Discord bot to your liking?
-[Subscribe my services on Fiverr!](https://www.fiverr.com/kernelly/create-a-custom-discord-bot-for-you)
-
 ---
