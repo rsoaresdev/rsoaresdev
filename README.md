@@ -2,7 +2,7 @@
 > A software and web developer with +6 years of experience. I have advanced skills in JavaScript, HTML/CSS, Unreal Blueprints and Flutter. Currently developing an e-commerce web platform.<br>
 
 [![Discord](https://img.shields.io/discord/915533220488036363?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://discord.gg/zB4f2Etm8A)
-[![GitHub Followers](https://img.shields.io/github/followers/sirramboia?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/SirRamboia?tab=followers)
+[![GitHub Followers](https://img.shields.io/github/followers/rsoaresdev?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/rsoaresdev?tab=followers)
 [![Website](https://img.shields.io/website?down_color=333&down_message=off&label=Website&logo=firefox&logoColor=fff&style=flat-square&up_color=333&up_message=up&url=https%3A%2F%2Fscarbot.com)](https://scarbot.com)
 <br><br><br>
 
