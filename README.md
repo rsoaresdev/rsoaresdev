@@ -1,10 +1,8 @@
-> Hi! I'm Rafael Soares
-> A software and web developer with +6 years of experience. I have advanced skills in JavaScript, HTML/CSS, Unreal Blueprints and Flutter. Currently developing an e-commerce web platform.<br>
+> <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" height="20" width="20" alt="wave gif"/> Hi! I'm Rafael Soares
+> A software and web developer with +6 years of experience. I have advanced skills in JavaScript, Python, React, Databases and Websites Optimization.
 
-[![Discord](https://img.shields.io/discord/915533220488036363?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://discord.gg/zB4f2Etm8A)
 [![GitHub Followers](https://img.shields.io/github/followers/rsoaresdev?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/rsoaresdev?tab=followers)
-[![Website](https://img.shields.io/website?down_color=333&down_message=off&label=Website&logo=firefox&logoColor=fff&style=flat-square&up_color=333&up_message=up&url=https%3A%2F%2Fscarbot.com)](https://scarbot.com)
-<br><br><br>
+<br>
 
 ---
 
@@ -13,8 +11,7 @@
 </a>
 
 ### 💪 Experience & History
-I have been coding for more than 6 years. I started my journey at 2018. I learned JavaScript and Discord.JS to create Discord bots.
-My first project was a discord bot that still exists today, [see here](https://scarbot.com).<br/>
+A certified bug creator since August 2018.<br/>
 - In September 2020, I started to get interested in game creation, so I studied C# and Unreal Blueprints. Something that didn't give me pleasure doing, so I gave up the project.<br/>
 - In July 2021, I started learning HTML, CSS for creating websites, something I really enjoy doing these days.<br/>
 - Nowadays, I'm developing a e-commerce using [NextJS](https://nextjs.org/), [React](https://react.dev/), [TailwindCSS](https://tailwindcss.com/) and [shadcn/ui](https://ui.shadcn.com/).
@@ -30,7 +27,7 @@ My first project was a discord bot that still exists today, [see here](https://s
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="30" alt="express logo"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" height="30" width="30" alt="github logo"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" height="30" width="30" alt="git logo"/></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="30" alt="tailwind css logo"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" height="30" width="30" alt="tailwind css logo"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" width="30" alt="npm logo"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original.svg" height="30" width="30" alt="eslint logo"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="30" alt="mongodb logo"/></code>
