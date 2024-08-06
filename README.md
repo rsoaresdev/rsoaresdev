@@ -7,10 +7,6 @@
 
 ---
 
-<a href="https://discord.com/users/880143303364980767">
- <img src="https://lanyard.cnrad.dev/api/880143303364980767?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment&bg=161a23&animated=true" align="right" />
-</a>
-
 ### 💪 Experience & History
 A bug creator since August 2018.<br/>
 - In August 2018, I develop and maintain many Discord Bots, till 2023.<br/>
@@ -21,8 +17,8 @@ A bug creator since August 2018.<br/>
 - Nowadays, I'm also developing an mobile application for health and fitness, as well as a personal finance tracker.
 
 ### 🧠 Over the years, I've learned
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicicons/python/python/icons/nodejs/nodejs-original.svg" height="30" width="30" alt="nodejs logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/on-original.svg" height="30" width="30" alt="python logo"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-plain.svg" height="30" width="30" alt="nodejs logo"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" height="30" width="30" alt="python logo"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" width="30" alt="babel logo"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" alt="javascript logo"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" height="30" width="30" alt="typescript logo"/></code>
@@ -47,7 +43,7 @@ A bug creator since August 2018.<br/>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" height="30" width="30" alt="flutter logo"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" height="30" width="30" alt="figma logo"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" height="30" width="30" alt="bootstrap logo"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ssh/ssh-original.svg" height="30" width="30" alt="ssh logo"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ssh/ssh-original-wordmark.svg" height="30" width="30" alt="ssh logo"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/filezilla/filezilla-plain.svg" height="30" width="30" alt="filezilla logo"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" height="30" width="30" alt="mysql logo"/></code>
           
