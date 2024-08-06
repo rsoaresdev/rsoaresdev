@@ -1,5 +1,6 @@
 > <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" height="20" width="20" alt="wave gif"/> Hi! I'm Rafael Soares
-> A software and web developer with +6 years of experience. I have advanced skills in JavaScript, Python, React, Databases and Websites Optimization.
+> <br/>A software and web developer with +6 years of experience.
+> <br/> I have advanced skills in JavaScript, Python, React, SQL and Websites Optimization.
 
 [![GitHub Followers](https://img.shields.io/github/followers/rsoaresdev?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/rsoaresdev?tab=followers)
 <br>
@@ -11,14 +12,17 @@
 </a>
 
 ### 💪 Experience & History
-A certified bug creator since August 2018.<br/>
-- In September 2020, I started to get interested in game creation, so I studied C# and Unreal Blueprints. Something that didn't give me pleasure doing, so I gave up the project.<br/>
-- In July 2021, I started learning HTML, CSS for creating websites, something I really enjoy doing these days.<br/>
-- Nowadays, I'm developing a e-commerce using [NextJS](https://nextjs.org/), [React](https://react.dev/), [TailwindCSS](https://tailwindcss.com/) and [shadcn/ui](https://ui.shadcn.com/).
+A bug creator since August 2018.<br/>
+- In August 2018, I develop and maintain many Discord Bots, till 2023.<br/>
+- In September 2020, I started to get interested in game creation, so I studied C# and Unreal Blueprints.<br/>
+- In July 2021, I started learning HTML, CSS and JavaScript for creating websites.<br/>
+- In 2022 I worked more proiminently in freelancing, in security reviews and configuration of firewalls and DNS.<br/>
+- From June 2023 until *now,* I've been working as a software developer for a wine company in Porto.<br/>
+- Nowadays, I'm also developing an mobile application for health and fitness, as well as a personal finance tracker.
 
 ### 🧠 Over the years, I've learned
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="30" alt="nodejs logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30" alt="python logo"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicicons/python/python/icons/nodejs/nodejs-original.svg" height="30" width="30" alt="nodejs logo"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/on-original.svg" height="30" width="30" alt="python logo"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" width="30" alt="babel logo"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" alt="javascript logo"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" height="30" width="30" alt="typescript logo"/></code>
