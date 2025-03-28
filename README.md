@@ -25,8 +25,6 @@ A bug creator since August 2018.<br/>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" height="30" width="30" alt="typescript logo"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="30" alt="react logo"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/discordjs/discordjs-original.svg" height="30" width="30" alt="discordjs logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="30" alt="express logo"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" height="30" width="30" alt="github logo"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" height="30" width="30" alt="git logo"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" height="30" width="30" alt="tailwind css logo"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" width="30" alt="npm logo"/></code>
@@ -44,7 +42,7 @@ A bug creator since August 2018.<br/>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" height="30" width="30" alt="flutter logo"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" height="30" width="30" alt="figma logo"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" height="30" width="30" alt="bootstrap logo"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ssh/ssh-original-wordmark.svg" height="30" width="30" alt="ssh logo"/></code>
+<code><img src="https://cdn-icons-png.flaticon.com/512/5136/5136897.png" height="30" width="30" alt="ssh logo"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/filezilla/filezilla-plain.svg" height="30" width="30" alt="filezilla logo"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" height="30" width="30" alt="mysql logo"/></code>
           
