@@ -92,6 +92,7 @@ Here’s a curated selection of my most impactful work across web, mobile, and s
 
 - **📚 StepUp – English School Website**  
   Promotional website for an English school with responsive design, course overviews, and conversion-focused layout.<br>
+  🔗 [Website](https://stepupidiomas.pt)
   💻 [GitHub](https://github.com/rsoaresdev/stepup-website)
 
 ---
