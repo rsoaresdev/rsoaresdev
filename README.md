@@ -1,10 +1,98 @@
-> <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" height="20" width="20" alt="wave gif"/> Hi! I'm Rafael Soares
-> <br/>A software and web developer with +7 years of experience.
-> <br/> I have advanced skills in JavaScript, Python, React, React Native, SQL and Websites Optimization.
+<p>
+  <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" height="20" width="20" alt="wave gif"/>
+  <strong>Hi! I'm Rafael Soares</strong>
+  <br/>
+  Software & Web Developer with over 7 years of experience.
+  <br/>
+  Skilled in JavaScript, Python, React, React Native, SQL, and website performance optimization.
+</p>
 
-[![GitHub Followers](https://img.shields.io/github/followers/rsoaresdev?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/rsoaresdev?tab=followers)
-<br>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/r.soares.17)
+<p>
+  <a href="https://github.com/rsoaresdev">
+    <img src="https://img.shields.io/github/followers/rsoaresdev?style=for-the-badge&logo=github&label=GitHub&color=181717" alt="GitHub"/>
+  </a>
+  <a href="https://instagram.com/r.soares.17">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rafael-ssoares/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rafs.soares@icloud.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.fiverr.com/rsoaresdev">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
+  </a>
+</p>
+
+
+
+### 🎨 Portfolio
+
+🚀 Here are some of the projects and work I've developed
+
+> 📁 Check my full portfolio:  
+> 👉 [fiverr.com/users/rsoaresdev/portfolio](https://www.fiverr.com/users/rsoaresdev/portfolio)
+
+<div align="center">
+  <a href="https://fiverr.com/rsoaresdev/portefolio" target="_blank">
+    <img src="https://cdn.dribbble.com/users/1044993/screenshots/3031553/media/b98b89b3d0f6205b243cfe924e20dc36.gif" width="100%" style="border-radius: 12px;" alt="Portfolio Highlight GIF">
+  </a>
+</div>
+
+### 🚀 Project Highlights
+
+Here’s a curated selection of my most impactful work across web, mobile, and system development:
+
+- **📡 Custom Intranet Development for Poças Wine Company**  
+  Built a fully customized intranet system tailored for a Portuguese wine producer. Focused on optimizing stock management, integrating multiple ERP systems, and improving internal workflows with industry-specific logic.<br>
+  🛑 *Private project due to confidentiality.*
+
+- **🤖 Discord Bot Development**  
+  Ongoing work since 2018 delivering advanced Discord bots featuring moderation tools, custom economies, role automation, and real-time API integrations. Built with Discord.js, Node.js, and MongoDB.<br>
+  🔗 [View Gig](https://www.fiverr.com/rsoaresdev/create-any-discord-bot)
+  💻 [GitHub](https://github.com/rsoaresdev/scar-dashboard-v3)
+
+- **📈 Dynamic Economy System for Discord**  
+  Created a modular, MongoDB-powered economy package for Discord bots: personal wallets, user transfers, deposit/withdrawal systems, and balance tracking.<br>
+  💻 [GitHub](https://github.com/rsoaresdev/discord-mongo-currency.better)   ⚠️ *No longer maintained.*
+
+- **🥐 Ponte de Pedra Bakery Website**  
+  Designed and developed a warm, responsive website to capture the artisanal identity of a local bakery. Clean design, strong visuals, intuitive navigation, and mobile support.<br>
+  💻 [GitHub](https://github.com/rsoaresdev/pontedepedra)
+
+- **🏋️‍♂️ Motionext – Health & Fitness App**  
+  Full-featured mobile app including: body metrics, calorie tracking, workout assistant, hydration monitoring, intermittent fasting, heart monitoring, mental health tools, and medication reminders.<br>
+  🔗 [Website](https://motionext.app)
+  💻 [GitHub Profile](https://github.com/motionext)
+
+- **⚙️ Industrial Bottle Counting System (Raspberry Pi)**  
+  Developed a rugged industrial solution using Raspberry Pi, IR sensors, SQL Server, and pneumatic systems. Features real-time monitoring, web interface, SSL security, and auto-recovery via systemd.<br>
+  💻 [GitHub](https://github.com/rsoaresdev/raspberry-pi-bottle-counter)
+  
+- **📱 HabitTracker App**  
+  A cross-platform mobile app (React Native + Expo) to help users build positive habits. Includes habit creation, scheduling, streak visualization, and notifications.<br>
+  💻 [GitHub](https://github.com/rsoaresdev/HabitTracker)
+
+- **📝 Random Word Pair Generator (Flutter)**  
+  Clean, fast, and minimalistic Flutter app for generating random word pairs. Includes infinite scroll, favoriting system, and adaptive UI.<br>
+  💻 [GitHub](https://github.com/rsoaresdev/HabitTracker)
+
+- **🛍️ Ecomsy – E-commerce Platform**  
+  Complete, modern e-commerce platform built with Next.js, TypeScript, Tailwind, Prisma and Stripe. Features dynamic product listing, cart management, checkout with secure payments, and admin panel for store management.<br>
+  💻 [GitHub](https://github.com/rsoaresdev/ecomsy-ecommerce)
+  
+- **💸 Ecomsy Finance – Personal Finance Manager**  
+  Web app with Plaid API for bank syncing, budgeting tools, CSV imports, interactive dashboards, and premium subscription management. Focused on automation, clarity, and secure data handling.<br>
+  💻 [GitHub](https://github.com/rsoaresdev/ecomsy-finance)
+  
+- **🔗 Transact – Instant USDC Payment Links (Web3)**  
+  Built a Web3 payment link generator for USDC on Polygon. Includes wallet encryption (AES-GCM), theme toggling, merchant pages, and international currency support.<br>
+  💻 [GitHub](https://github.com/rsoaresdev/transact)
+
+- **📚 StepUp – English School Website**  
+  Promotional website for an English school with responsive design, course overviews, and conversion-focused layout.<br>
+  💻 [GitHub](https://github.com/rsoaresdev/stepup-website)
 
 ---
 
