@@ -95,6 +95,11 @@ Here’s a curated selection of my most impactful work across web, mobile, and s
   🔗 [Website](https://stepupidiomas.pt)
   💻 [GitHub](https://github.com/rsoaresdev/stepup-website)
 
+- **💥 Daily Rejection**  
+  A site to document personal challenge of facing daily rejections.<br>
+  🔗 [Website](https://dailyrejection-website.vercel.app)
+  💻 [GitHub](https://github.com/rsoaresdev/dailyrejection-website)
+
 ---
 
 ### 💪 Experience & History
