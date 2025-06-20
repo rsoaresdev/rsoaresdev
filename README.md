@@ -44,6 +44,11 @@
 
 Here’s a curated selection of my most impactful work across web, mobile, and system development:
 
+- **🧽 Relusa - O seu carro não recusa**  
+  Relusa is an eco-conscious mobile car cleaning service based in Gaia, Portugal. We specialize in waterless detailing solutions for interiors, exteriors, wheels, windows, and more — combining efficiency, sustainability, and premium care.<br>
+  🔗 [Website](https://www.relusa.pt)
+  💻 [GitHub](https://github.com/rsoaresdev/relusa)
+
 - **📡 Custom Intranet Development for Poças Wine Company**  
   Built a fully customized intranet system tailored for a Portuguese wine producer. Focused on optimizing stock management, integrating multiple ERP systems, and improving internal workflows with industry-specific logic.<br>
   🛑 *Private project due to confidentiality.*
