@@ -11,7 +11,7 @@
   <a href="https://github.com/rsoaresdev">
     <img src="https://img.shields.io/github/followers/rsoaresdev?style=for-the-badge&logo=github&label=GitHub&color=181717" alt="GitHub"/>
   </a>
-  <a href="https://instagram.com/r.soares.17">
+  <a href="https://instagram.com/rsoares.cd">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/rafael-ssoares/">
