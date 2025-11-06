@@ -44,6 +44,11 @@
 
 Here’s a curated selection of my most impactful work across web, mobile, and system development:
 
+- **📓 OdoKeep - Know your car. Effortlessly.**  
+  Track your vehicle costs smart. Record, track, and forecast all vehicle-related costs, maintenance, and events.<br>
+  🔗 [Website](https://www.odokeep.com)
+  Mobile App: soon 👀
+  
 - **🧽 Relusa - O seu carro não recusa**  
   Relusa is an eco-conscious mobile car cleaning service based in Gaia, Portugal. We specialize in waterless detailing solutions for interiors, exteriors, wheels, windows, and more — combining efficiency, sustainability, and premium care.<br>
   🔗 [Website](https://www.relusa.pt)
