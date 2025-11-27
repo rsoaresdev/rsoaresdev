@@ -73,7 +73,6 @@ Here’s a curated selection of my most impactful work across web, mobile, and s
 
 - **🏋️‍♂️ Motionext – Health & Fitness App**  
   Full-featured mobile app including: body metrics, calorie tracking, workout assistant, hydration monitoring, intermittent fasting, heart monitoring, mental health tools, and medication reminders.<br>
-  🔗 [Website](https://motionext.app)
   💻 [GitHub Profile](https://github.com/motionext)
 
 - **⚙️ Industrial Bottle Counting System (Raspberry Pi)**  
@@ -119,7 +118,7 @@ A bug creator since August 2018.<br/>
 - In July 2021, I started learning HTML, CSS and JavaScript for creating websites.<br/>
 - In 2022 I worked more proiminently in freelancing, in security reviews and configuration of firewalls and DNS.<br/>
 - From June 2023 until *now,* I've been working as a software developer for a wine company in Porto.<br/>
-- Nowadays, I'm also developing an mobile application for health and fitness, as well as a personal finance tracker. Know more about it, [here](https://motionext.app)
+- Nowadays, I'm also developing an mobile application for car maintenance tracking. Know more about it, [here](https://odokeep.com)
 
 ### 🧠 Over the years, I've learned
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-plain.svg" height="30" width="30" alt="nodejs logo"/></code>
