@@ -2,7 +2,7 @@
   <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" height="20" width="20" alt="wave gif"/>
   <strong>Hi! I'm Rafael Soares</strong>
   <br/>
-  Software & Web Developer with over 7 years of experience.
+  Software & Web Developer with over 8 years of experience.
   <br/>
   Skilled in JavaScript, Python, React, React Native, SQL, and website performance optimization.
 </p>
