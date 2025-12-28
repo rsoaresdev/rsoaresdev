@@ -2,7 +2,7 @@
   <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" height="20" width="20" alt="wave gif"/>
   <strong>Hi! I'm Rafael Soares</strong>
   <br/>
-  Software Engineer & Builder
+  Software Engineer & Builder since 2018
   <br/>
   Tech Stack: Next.js, React, Node.js, Python (Django), MongoDB, Docker, and SQL.
 </p>
