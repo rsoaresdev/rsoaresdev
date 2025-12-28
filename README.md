@@ -2,32 +2,13 @@
   <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" height="20" width="20" alt="wave gif"/>
   <strong>Hi! I'm Rafael Soares</strong>
   <br/>
-  Software & Web Developer with over 8 years of experience.
+  Software Engineer & Builder
   <br/>
-  Skilled in JavaScript, Python, React, React Native, SQL, and website performance optimization.
-</p>
-
-<p>
-  <a href="https://github.com/rsoaresdev">
-    <img src="https://img.shields.io/github/followers/rsoaresdev?style=for-the-badge&logo=github&label=GitHub&color=181717" alt="GitHub"/>
-  </a>
-  <a href="https://instagram.com/rsoares.cd">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rafael-ssoares/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:rafs.soares@icloud.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.fiverr.com/rsoaresdev">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
-  </a>
+  Tech Stack: Next.js, React, Node.js, Python (Django), MongoDB, Docker, and SQL.
 </p>
 
 
-
-### 🎨 Portfolio
+### 🎨 Projects
 
 🚀 Here are some of the projects and work I've developed
 
