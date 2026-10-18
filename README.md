@@ -43,8 +43,8 @@
 <table>
   <tr>
     <td width="55%" valign="middle">
-      <a href="https://www.youtube.com/watch?v=3JwqS2UZdW8">
-        <img src="https://img.youtube.com/vi/3JwqS2UZdW8/maxresdefault.jpg" alt="Watch the OdoKeep product demo" width="100%" />
+      <a href="https://www.youtube.com/watch?v=XPN4BFq7l-c">
+        <img src="https://img.youtube.com/vi/XPN4BFq7l-c/maxresdefault.jpg" alt="Watch the OdoKeep product demo" width="100%" />
       </a>
     </td>
     <td width="45%" valign="top">
@@ -67,7 +67,7 @@
         &nbsp;·&nbsp;
         <a href="https://play.google.com/store/apps/details?id=com.odokeep.app">Google Play</a>
         &nbsp;·&nbsp;
-        <a href="https://www.youtube.com/watch?v=3JwqS2UZdW8">Demo</a>
+        <a href="https://www.youtube.com/watch?v=XPN4BFq7l-c">Demo</a>
       </p>
     </td>
   </tr>
